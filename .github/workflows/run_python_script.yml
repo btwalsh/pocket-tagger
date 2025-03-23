@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: pocket-tagger
+        working-directory: .github
     
     steps:
     - name: Checkout repository
